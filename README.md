@@ -1,36 +1,37 @@
-## Meus Projetos de Programação
+## My Programming Projects
 
-Bem-vindo ao meu portfólio! Este repositório centraliza meus projetos próprios e acadêmicos.
+Welcome to my portfolio! This repository centralizes my personal and academic projects.
 
-## Projetos em Destaque
+## Featured Projects
 
-## Batalha Naval
-Projeto avaliativo do primeiro período sobre o clássico jogo "Batalha Naval". Aqui foi onde nos forçamos a aprender boa lógica de programação utilizando funções.
+## Naval Battle
 
+First-period evaluation project about the classic "Battleship" game. This was where we pushed ourselves to learn good programming logic using functions.
 
-Tecnologias: Python
+Technologies: Python
 
-[Acessar repositório Batalha Naval](https://github.com/kaiqueard/batalhaNaval)
+[Access Naval Battle repository](https://github.com/kaiqueard/batalhaNaval)
 
-## APLICATIVO-MULTIMIDIA
-Trabalho avaliativo utilizando a plataforma "Processing", um bom projeto. utilizamos exclusivamente java e nos acostumamos mais com utilizaçaõ de funções.
+## MULTIMEDIA APPLICATION
 
+Evaluation project using the "Processing" platform, a great project. We used exclusively Java and became more accustomed to using functions.
 
-Tecnologias: Java
+Technologies: Java
 
-[Acessar repositório MULTIMIDIA](https://github.com/kaiqueard/APLICATIVO-MULTIMIDIA)
+[Access MULTIMEDIA repository](https://github.com/kaiqueard/APLICATIVO-MULTIMIDIA)
 
-## Jokenpô
-Trabalho avaliativo somatório sobre Jokenpô, desenvolvido em colaboração com Davi Sequinel. 
+## Rock-Paper-Scissors (Jokenpô)
 
-Tecnologias: Python
+Summative evaluation project on Rock-Paper-Scissors, developed in collaboration with Davi Sequinel.
 
-[Acessar repositório Jokenpô](https://github.com/kaiqueard/Jokenp-)
+Technologies: Python
 
-## Tecnologias e Ferramentas
+[Access Rock-Paper-Scissors repository](https://github.com/kaiqueard/Jokenp-)
 
-*Linguagem Principal:* Python
+## Technologies and Tools
 
-*Controle de Versão:* Git & GitHub
+*Main Language:* Python
 
-*Ambiente:* Visual Studio Code
+*Version Control:* Git & GitHub
+
+*Environment:* Visual Studio Code
