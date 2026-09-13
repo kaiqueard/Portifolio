@@ -12,6 +12,14 @@ Tecnologias: Python
 
 [Acessar repositório Batalha Naval](https://github.com/kaiqueard/batalhaNaval)
 
+## APLICATIVO-MULTIMIDIA
+Trabalho avaliativo utilizando a plataforma "Processing", um bom projeto. utilizamos exclusivamente java e nos acostumamos mais com utilizaçaõ de funções.
+
+
+Tecnologias: Java
+
+[Acessar repositório MULTIMIDIA](https://github.com/kaiqueard/APLICATIVO-MULTIMIDIA)
+
 ## Jokenpô
 Trabalho avaliativo somatório sobre Jokenpô, desenvolvido em colaboração com Davi Sequinel. 
 
