@@ -12,6 +12,14 @@ Technologies: Python
 
 [Access Naval Battle repository](https://github.com/kaiqueard/batalhaNaval)
 
+## Smart City iot - airguard
+
+Project developed to solve a problem that would affect smart cities. Very interesting, I learned about analyzing situations and how cyber-physical devices can be interpreted in the digital world.
+
+Technologies: MicroPython & ESP32
+
+[Access Naval Battle repository](https://github.com/kaiqueard/smart-city-iot-airguard)
+
 ## MULTIMEDIA APPLICATION
 
 Evaluation project using the "Processing" platform, a great project. We used exclusively Java and became more accustomed to using functions.
