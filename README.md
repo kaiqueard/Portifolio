@@ -18,7 +18,7 @@ Project developed to solve a problem that would affect smart cities. Very intere
 
 Technologies: MicroPython & ESP32
 
-[Access Naval Battle repository](https://github.com/kaiqueard/smart-city-iot-airguard)
+[Access AirGuard repository](https://github.com/kaiqueard/smart-city-iot-airguard)
 
 ## MULTIMEDIA APPLICATION
 
