@@ -38,8 +38,6 @@ Technologies: Python
 
 ## Technologies and Tools
 
-*Main Language:* Python
-
 *Version Control:* Git & GitHub
 
 *Environment:* Visual Studio Code
