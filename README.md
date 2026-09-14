@@ -22,7 +22,7 @@ Technologies: MicroPython & ESP32
 
 ## MULTIMEDIA APPLICATION
 
-Evaluation project using the "Processing" platform, a great project. We used exclusively Java and became more accustomed to using functions.
+Evaluation project using the "Processing" platform, a great project. We used exclusively Java and became more accustomed to using functions. Made for elementary students, helping classes.
 
 Technologies: Java
 
