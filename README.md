@@ -36,6 +36,14 @@ Technologies: Python
 
 [Access Rock-Paper-Scissors repository](https://github.com/kaiqueard/Jokenp-)
 
+## Academic Activities
+
+Collection of fundamental exercises and projects developed during my academic journey, covering logic, web development, and structural programming concepts.
+
+Technologies: Python, HTML, CSS, JavaScript, C
+
+[Access GitHub projects repository](https://github.com/kaiqueard/projetos-github)
+
 ## Technologies and Tools
 
 *Version Control:* Git & GitHub
